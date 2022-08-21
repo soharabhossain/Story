@@ -1,2 +1,2 @@
 This is chapter 1 of my story.
-Addming this new line.
+Adding this new line.
